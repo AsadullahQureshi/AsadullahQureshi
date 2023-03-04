@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Asadullah
 #### Laravel Full Stack Developer
-![Github Laravel Full Stack Developer]([https://www.canva.com/design/DAFcQ_jgsew/EJPdbV2AYiBe_af4k2C-Yg/view?utm_content=DAFcQ_jgsew&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://github.com/AsadullahQureshi/AsadullahQureshi/blob/743b5f5c448f5f463a3de4012e8cf0bf3f1922e9/Github%20Laravel%20Full%20stack%20developer.png))
+![Github Laravel Full Stack Developer](https://github.com/AsadullahQureshi/AsadullahQureshi/blob/743b5f5c448f5f463a3de4012e8cf0bf3f1922e9/Github%20Laravel%20Full%20stack%20developer.png)
 
 I am Asadullah. I have more than +1 year of experience in website development. My expertise in these skills is Laravel web application development, WordPress development, Shopify store creation, Theme design with Tailwindcss, and Bug fixes from your application.
 
